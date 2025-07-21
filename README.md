@@ -81,7 +81,7 @@ experiment/
 
 ## Authors & Contact
 
-**A Dual-Stream Embedding Framework for Topic Modelling in Biomedical Literature**
+**Topic Modeling for Biomedical Literature Retrieval via a Dual-Stream Embedding Framework**
 
 **Authors:**  
 Tao Tao¹, Eiko Takaoka²
