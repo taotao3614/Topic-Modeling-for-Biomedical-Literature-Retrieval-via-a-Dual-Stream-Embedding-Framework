@@ -1,8 +1,8 @@
-# A Dual-Stream Embedding Framework for Topic Modelling in Biomedical Literature
+# Topic Modeling for Biomedical Literature Retrieval via a Dual-Stream Embedding Framework
 
 ## Project Overview
 
-This repository contains the original data and code for the paper "A Dual-Stream Embedding Framework for Topic Modelling in Biomedical Literature." The project aims to improve topic modelling in biomedical literature via a dual-stream embedding mechanism, integrating both unstructured text and structured biomedical knowledge (MeSH terms). It includes the full experimental pipeline, ablation studies, main results, and reproducible code and data for peer review and research reproducibility.
+This repository contains the original data and code for the paper "Topic Modeling for Biomedical Literature Retrieval via a Dual-Stream Embedding Framework." The project aims to improve topic modelling in biomedical literature via a dual-stream embedding mechanism, integrating both unstructured text and structured biomedical knowledge (MeSH terms). It includes the full experimental pipeline, ablation studies, main results, and reproducible code and data for peer review and research reproducibility.
 
 ---
 
